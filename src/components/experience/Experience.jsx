@@ -5,8 +5,8 @@ import {AiFillCheckCircle} from 'react-icons/ai'
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>Mine dataferdigeter</h5>
-      <h2>Min jobberfaring</h2>
+      <h5>Mine ferdigeter</h5>
+      <h2>innen Frontend og Design</h2>
 
       <div className='container experience__container'>
         <div className='experience__frontend'>

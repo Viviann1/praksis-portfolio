@@ -11,8 +11,8 @@ const Services = () => {
     <div className='container services__container'>
       <article className='service'>
         <div className='service__head'>
-        <h5>Erfaring innen</h5>
-        <h3>UI/UX Design</h3>
+        <h4>Erfaring innen</h4>
+        <h2>UI/UX</h2>
         </div>
 
         <ul className='service__list'>
@@ -32,8 +32,8 @@ const Services = () => {
       </article>
       {/* END OF UI/UX */}      <article className='service'>
         <div className='service__head'>
-        <h5>Nøkkelkvalifikasjoner</h5>
-        <h3>Design</h3>
+        <h4>Nøkkelkvalifikasjoner</h4>
+        <h2>Design</h2>
         </div>
 
         <ul className='service__list'>
@@ -55,8 +55,8 @@ const Services = () => {
 
       <article className='service'>
         <div className='service__head'>
-        <h5>Personlige</h5>
-        <h3>egenskaper</h3>
+        <h4>Personlige</h4>
+        <h2>Egenskaper</h2>
         </div>
 
         <ul className='service__list'>
