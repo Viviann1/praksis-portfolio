@@ -41,6 +41,18 @@ const About = () => {
             </article>
 
           </div>
+          <p>Kreativ sjel med bakgrunn som grafisk designer/
+AD i reklamebyråer.
+Jobbet som grafisk designer i Gazette 
+- gratis-magasin på Lanzarote. 
+Var med på å starte opp og drev kunst/håndverksbutikk/kollektiv i Irland.  
+Vil nå tilbake til å jobbe mer med det kreative 
+og vil derfor utvide mine kunnskaper. 
+Jobber nå hardt for å bli god på koding og kunne designe mine egne nettsider. 
+Har mange idèer 
+- og ser fram til å få de gjennomført!</p>
+
+<a href='#contact' className='btn btn-primary'>La oss snakke</a>
           </div>
       </div>
     </section>
