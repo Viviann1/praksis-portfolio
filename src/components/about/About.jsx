@@ -52,7 +52,7 @@ Jobber nå hardt for å bli god på koding og kunne designe mine egne nettsider.
 Har mange idèer 
 - og ser fram til å få de gjennomført!</p>
 
-<a href='#contact' className='btn btn-primary'>La oss snakke</a>
+<a href='#contact' className='btn btn-primary'>Ta kontakt</a>
           </div>
       </div>
     </section>
