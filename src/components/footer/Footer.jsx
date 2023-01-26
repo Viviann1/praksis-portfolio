@@ -9,13 +9,13 @@ const Footer = () => {
       <a href="#" className='footer__logo'>VIVIANN</a>
 
       <ul className='permalinks'>
-        <li><a href="#">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#services">Services</a></li>
+        <li><a href="#">Hjem</a></li>
+        <li><a href="#about">Om meg</a></li>
+        <li><a href="#experience">Mine ferdigheter</a></li>
+        <li><a href="#services">Nøkkelkvalifikasjoner</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testmonials">Testmonials</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#testmonials">Referanser</a></li>
+        <li><a href="#contact">Kontakt meg</a></li>
       </ul>
 
       <div className='footer__socials'>
