@@ -30,7 +30,7 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Kunder</h5>
-              <small>jobbet med små og store kunder</small>
+              <small>jobbet med både små og store bedrifter</small>
             </article>
 
             <article className='about__card'>
