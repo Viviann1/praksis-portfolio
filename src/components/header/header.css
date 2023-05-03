@@ -10,6 +10,10 @@
     position: relative;
 }
 
+.container header__container {
+    margin-top: 24rem;
+}
+
 /* ============== CTA ================ */
 .cta {
     margin-top: 2.5rem;
