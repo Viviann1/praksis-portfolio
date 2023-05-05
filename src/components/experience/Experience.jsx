@@ -6,7 +6,7 @@ const Experience = () => {
   return (
     <section id='experience'>
       <h5>Mine ferdigeter</h5>
-      <h2>innen Frontend og Design</h2>
+      <h2>Mine ferdigheter innen Frontend og Design</h2>
 
       <div className='container experience__container'>
         <div className='experience__frontend'>
@@ -48,6 +48,14 @@ const Experience = () => {
               <AiFillCheckCircle className='experience__details-icons' />
               <div>
               <h4>Github</h4>
+              <small className='text-light'>Erfaren</small>
+              </div>
+             </article>
+
+             <article className=''>
+              <AiFillCheckCircle className='experience__details-icons' />
+              <div>
+              <h4>NextJS</h4>
               <small className='text-light'>Erfaren</small>
               </div>
              </article>
