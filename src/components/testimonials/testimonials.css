@@ -2,6 +2,22 @@
     width: 80%;
 }
 
+.h2_heading{
+    font-size: 36px;
+    color: #ffff;
+    letter-spacing: 15px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.h5_heading{
+    font-size: 36px;
+    letter-spacing: 15px;
+    font-weight: 100;
+    color: var(--color-primary);
+    text-transform: uppercase;
+}
+
 
 .testimonial {
     background: var(--color-bg-variant);
