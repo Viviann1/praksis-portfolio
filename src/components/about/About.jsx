@@ -23,21 +23,22 @@ const About = () => {
             <article className='about__card'>
               <FiAward className='about__icon' />
               <h5>Erfaring</h5>
-              <h6>Nylært frontend utvikler</h6>
-              <small>7+ års erfaring som grafisk designer</small>
+              <p>7+ års erfaring som art director og grafisk designer.</p>
+              <p>Frontend Utvikler hovedvekt på design.</p>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Kunder</h5>
-              <small>jobbet med både små og store bedrifter</small>
+              <p>Jobbet med både små og store bedrifter.</p>
+              <p>Vant med å jobbe direkte med kunden.</p>
             </article>
 
             <article className='about__card'>
               <VscFolderOpened className='about__icon' />
               <h5>Prosjekter</h5>
               <h6>Nylært frontend utvikler</h6>
-              <small>noe kode og noe design</small>
+              <p>noe kode og noe design</p>
             </article>
 
           </div>
