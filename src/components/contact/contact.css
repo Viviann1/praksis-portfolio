@@ -20,20 +20,29 @@
     transition: var(--transition);
 }
 
+.h4_heading {
+    color: #ffff;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 5px;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
 .contact__option:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
 }
 
 .contact__options-icon {
-    font-size: 1.5rem;
+    font-size: 18px;
     margin-bottom: 0.5rem;
 }
 
 .contact__option a {
     margin-top: 0.7rem;
     display: inline-block;
-    font-size: 0.8rem;
+    font-size: 18px;
 }
 
 /* ========= FORM ========= */
