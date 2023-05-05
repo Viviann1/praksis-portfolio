@@ -1,12 +1,28 @@
 .services__container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
+    gap: 3.5rem;
+}
+
+.h2_heading{
+    font-size: 36px;
+    color: #ffff;
+    letter-spacing: 15px;
+    font-weight: 100;
+    margin-top: 1px;
+    text-transform: uppercase;
+}
+
+.h5_heading{
+    font-size: 36px;
+    letter-spacing: 5px;
+    font-weight: 100;
+    color: var(--color-primary);
 }
 
 .service {
     background: var(--color-bg-variant);
-    border-radius: 0 0 2rem 2rem;
+    border-radius: 0 0 1rem 1rem;
     border: 1px solid var(--color-primary);
     height: fit-content;
     transition: var(--transition);
@@ -21,18 +37,24 @@
 .service__head {
     background: var(--color-primary);
     padding: 2rem;
-    border-radius: 0 0 2rem 2rem;
-    box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.3rem 0.3rem rgba(0, 0, 0, 0.1);
 }
 
 .service__head h2 {
-    color: var(--color-bg);
+    color: #ffff;
     text-align: center;
+    font-weight: 100;
+    letter-spacing: 10px;
+    text-transform: capitalize;
+    font-size: 32px;
 }
 
 .service__head h4 {
     color: var(--color-bg);
     text-align: center;
+    font-weight: 100;
+    letter-spacing: 5px;
+    font-size: 18px;
 }
 
 .service__list {
@@ -45,14 +67,21 @@
     margin-bottom: 0.8rem;
 
 }
+.services_p {
+    font-weight: 100;
+    font-size: 24px;
+    letter-spacing: 5px;
+}
 
 .service__list icon {
     color: var(--color-primary);
-    margin-top: 2px;
+    margin-top: 5px;
 }
 
 .service__list p {
-    font-size: 0.9rem;
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 3px;
 }
 
 /* ========MEDIA QUERIES (MEDIUM DEVICES) =========*/

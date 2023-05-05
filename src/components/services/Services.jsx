@@ -5,8 +5,8 @@ import {BsCheck} from 'react-icons/bs'
 const Services = () => {
   return (
     <section id='services'>
-    <h5>Mine</h5>
-    <h2>nøkkelkvalifikasjoner</h2>
+    <h5 className='h5_heading'>Mine</h5>
+    <h2 className='h2_heading'>nøkkelkvalifikasjoner</h2>
 
     <div className='container services__container'>
       <article className='service'>
@@ -18,7 +18,15 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <BsCheck className='service__list-icon' />
-            <p>Under opplæring Frontend Utvikler i Kodehode.</p>
+            <p className='services_p'>Praksis som Frontend Utvikler i Kodeverket.</p>
+          </li>
+          <li>
+            <BsCheck className='service__list-icon' />
+            <p>Utviklet i team Hjerteting nettbutikk løsning.</p>
+          </li>
+          <li>
+            <BsCheck className='service__list-icon' />
+            <p>Jobbet i team med å kode Jobbjakt nettside.</p>
           </li>
           <li>
             <BsCheck className='service__list-icon' />
@@ -26,7 +34,7 @@ const Services = () => {
           </li>
           <li>
             <BsCheck className='service__list-icon' />
-            <p>Pokedex laget med javascript.</p>
+            <p>+++ sjekk github for mer.</p>
           </li>
         </ul>
       </article>
@@ -39,7 +47,7 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <BsCheck className='service__list-icon' />
-            <p>7 års erfaring som grafisk designer.</p>
+            <p>7 års erfaring som art director/grafisk designer.</p>
           </li>
           <li>
             <BsCheck className='service__list-icon' />
@@ -47,7 +55,11 @@ const Services = () => {
           </li>
           <li>
             <BsCheck className='service__list-icon' />
-            <p>Erfaring fra magasinproduksjon og formgivning av brosjyrer, kataloger oa</p>
+            <p>Erfaring fra magasinproduksjon og formgivning av brosjyrer, kataloger oa.</p>
+          </li>
+          <li>
+            <BsCheck className='service__list-icon' />
+            <p>Designet profil/nettbuikk for Hjerteting.</p>
           </li>
         </ul>
       </article>
