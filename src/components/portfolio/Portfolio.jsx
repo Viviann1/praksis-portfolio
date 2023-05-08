@@ -4,8 +4,8 @@ import './portfolio.css'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5 className='h5_heading'>Min design</h5>
-      <h2 className='h2_heading'>Portfolio</h2>
+      <h5 className='h5_heading'>Min</h5>
+      <h2 className='h2_heading'>design Portfolio</h2>
 
       <div className='container portfolio__container'>
         <article className='portfolio__item'>
