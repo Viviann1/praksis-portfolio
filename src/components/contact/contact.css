@@ -20,13 +20,13 @@
     transition: var(--transition);
 }
 
-.h4_heading {
-    color: #ffff;
+.h3_heading {
+    color: var(--color-primary-variant);
     text-align: center;
     font-weight: 100;
-    letter-spacing: 5px;
-    font-size: 18px;
-    text-transform: capitalize;
+    letter-spacing: 10px;
+    font-size: 32px;
+    text-transform: uppercase;
 }
 
 .contact__option:hover {
@@ -43,7 +43,7 @@
     margin-top: 0.7rem;
     display: inline-block;
     font-size: 18px;
-}
+} 
 
 /* ========= FORM ========= */
 form {

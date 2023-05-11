@@ -1,8 +1,5 @@
 import React from 'react'
 import './contact.css'
-import {MdOutlineEmail} from 'react-icons/md'
-import {RiMessengerLine} from 'react-icons/ri'
-import {BsWhatsapp} from 'react-icons/bs'
 
 const Contact = () => {
   return (
@@ -13,14 +10,12 @@ const Contact = () => {
        
        <div className="contact__options">
         <article className='contact__option'>
-          <MdOutlineEmail className='contact__option-icon' />
           <h3 className='h3_heading'>Email</h3>
-          <h4>viviann.kodehode@gmail.com</h4>
+          <h4 className='mail'>viviann.kodehode@gmail.com</h4>
           <a href="mailto:viviann.kodehode@gmail.com" rel='_external'>Send en epost</a>
         </article>
 
         <article className='contact__option'>
-          <RiMessengerLine className='contact__option-icon' />
           <h3 className='h3_heading'>Messenger</h3>
           <a href="https://www.facebook.com/viviann.heggestad" rel='_external'>Send en melding</a>
         </article>
