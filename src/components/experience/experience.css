@@ -24,6 +24,11 @@
     color: var(--color-primary);
 }
 
+.experience__container > div h4 {
+    color: var(--color-primary);
+    font-size: 1.5rem;
+}
+
 .experience__content {
     display: grid;
     grid-template-columns: 1fr 1fr;

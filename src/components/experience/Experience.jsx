@@ -13,35 +13,23 @@ const Experience = () => {
           <h3 className='h3_heading'>Frontend erfaring</h3>
           <div className='experience__content'>
             <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>HTML</h4>
+              <h4 className='h4_heading'>* HTML</h4>
               <p className='text-light text-lg'>Erfaren</p>
-              </div>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>CSS</h4>
+              <h4>* CSS</h4>
               <p className='text-light text-lg'>Erfaren</p>
-              </div>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>Javascript</h4>
+              <h4>* Javascript</h4>
               <p className='text-light text-lg'>Nybegynner</p>
-              </div>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>React</h4>
+              <h4>* React</h4>
               <p className='text-light text-lg'>Erfaren</p>
-              </div>
              </article>
 
              <article className=''>
