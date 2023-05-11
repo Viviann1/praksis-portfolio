@@ -14,15 +14,14 @@ const Contact = () => {
        <div className="contact__options">
         <article className='contact__option'>
           <MdOutlineEmail className='contact__option-icon' />
-          <h4 className='h4_heading'>Email</h4>
-          <h5>viviann.kodehode@gmail.com</h5>
+          <h3 className='h3_heading'>Email</h3>
+          <h4>viviann.kodehode@gmail.com</h4>
           <a href="mailto:viviann.kodehode@gmail.com" rel='_external'>Send en epost</a>
         </article>
 
         <article className='contact__option'>
           <RiMessengerLine className='contact__option-icon' />
-          <h4>Messenger</h4>
-          <h5>contact me</h5>
+          <h3 className='h3_heading'>Messenger</h3>
           <a href="https://www.facebook.com/viviann.heggestad" rel='_external'>Send en melding</a>
         </article>
 
@@ -30,9 +29,9 @@ const Contact = () => {
         </div> 
         {/* END OF CONTACT OPTIONS */}
         <form action="">
-          <input type="text" name='name' placeholder='Your Full Name' required />
-          <input type='email' name='email' placeholder='Your Email' required />
-          <textarea name="message" rows="7" placeholder='your Message' required></textarea>
+          <input type="text" name='name' placeholder='Fullt navn' required />
+          <input type='email' name='email' placeholder='Epost' required />
+          <textarea name="message" rows="7" placeholder='Din melding' required></textarea>
           <button type='submit' className='btn btn-primary'>Send message</button>
         </form>
       </div>
