@@ -25,19 +25,22 @@
     letter-spacing: 5px;
 }
 
+.btn {
+   margin: auto;
+}
 
 
 .portfolio__item {
-    background: var(--color-bg-variant);
+    background: var(bg-variant);
     padding: 1.2rem;
     border-radius: 2rem;
-    border: 1px solid transparent;
-    transition: var(--transition);
+    border: 1px solid;
+    transition: #ffff;
+
 }
 
-.portfolio__items:hover {
-    border-color: var(--color-primary-variant);
-    background: var(--color-light);
+.btn:hover {
+    background: #ffff;
 }
 
 
