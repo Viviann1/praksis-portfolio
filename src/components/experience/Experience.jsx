@@ -14,38 +14,32 @@ const Experience = () => {
           <div className='experience__content'>
             <article className=''>
               <h4 className='h4_heading'>* HTML</h4>
-              <p className='text-light text-lg'>Erfaren</p>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
               <h4>* CSS</h4>
-              <p className='text-light text-lg'>Erfaren</p>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
               <h4>* Javascript</h4>
-              <p className='text-light text-lg'>Nybegynner</p>
+              <p className=''>Nybegynner</p>
              </article>
 
              <article className=''>
               <h4>* React</h4>
-              <p className='text-light text-lg'>Erfaren</p>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>Github</h4>
-              <p className='text-light text-lg'>Erfaren</p>
-              </div>
+              <h4>* Github</h4>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>NextJS</h4>
-              <p className='text-light text-lg'>Erfaren</p>
-              </div>
+              <h4>* NextJS</h4>
+              <p className=''>Erfaren</p>
              </article>
 
           </div>
@@ -57,51 +51,33 @@ const Experience = () => {
         <h3 className='h3_heading'>Design erfaring</h3>
           <div className='experience__content'>
             <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>QuarkExpress</h4>
-              <p className='text-light text-lg'>Særs erfaren</p>
-              </div>
+              <h4>* QuarkExpress</h4>
+              <p className=''>Særs erfaren</p>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>Photoshop</h4>
-              <p className='text-light text-lg'>Særs erfaren</p>
-              </div>
+              <h4>* Photoshop</h4>
+              <p className=''>Særs erfaren</p>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>Illustrator</h4>
-              <p className='text-light text-lg'>Erfaren</p>
-              </div>
+              <h4>* Illustrator</h4>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>Indesign</h4>
-              <p className='text-light text-lg'>Nybegynner</p>
-              </div>
+              <h4>* Indesign</h4>
+              <p className=''>Nybegynner</p>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>Acrobat</h4>
-              <p className='text-light text-lg'>Erfaren</p>
-              </div>
+              <h4>* Acrobat</h4>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
-              <AiFillCheckCircle className='experience__details-icons' />
-              <div>
-              <h4>Word</h4>
-              <p className='text-light text-lg'>Erfaren</p>
-              </div>
+              <h4>* Word</h4>
+              <p className=''>Erfaren</p>
              </article>
 
         </div>

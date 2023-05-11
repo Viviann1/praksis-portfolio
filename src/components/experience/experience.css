@@ -12,6 +12,10 @@
     transition: var(--transition);
 }
 
+p {
+    color: var(--color-light)
+}
+
 .experience__container > div:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
