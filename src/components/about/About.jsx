@@ -25,7 +25,7 @@ const About = () => {
               <h5>Erfaring</h5>
               <p>Frontend Utvikler hovedvekt på design.</p>
               <p>7+ års erfaring som Art Director og Grafisk Designer.</p>
-              <p>Content manager for Hjerteting.</p>
+              <p>Content Manager for Hjerteting.</p>
             </article>
 
             <article className='about__card'>
@@ -47,7 +47,7 @@ const About = () => {
           </div>
           <p>Kreativ sjel som for tiden er i praksis som Frontend Utvikler i Kodeverket Bergen.<br />  
             Min styrke ligger i designerfaring som gjenspeiles i min kode.
-      Har bakgrunn som Art Director/Grafisk Designer i reklamebyråer. 
+      Har bakgrunn som Art  Director/Grafisk Designer i reklamebyråer. 
       Jobbet som Grafisk Designer i Gazette, et gratis-magasin på Lanzarote. 
       Var med på å starte opp og drev kunst og håndverksbutikk i Irland.  
 </p>
