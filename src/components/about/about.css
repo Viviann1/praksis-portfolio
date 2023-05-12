@@ -87,7 +87,9 @@ p {
     }
     .about__me {
         width: 50%;
+        height: 60%;
         margin: 2rem auto 4rem;
+        border: 2px solid red;
     }
 
     .about__content p {
@@ -100,6 +102,7 @@ p {
     .about__me {
         width: 65%;
         margin: 0 auto 3rem;
+        height: 70%;
     }
 
     .about__cards {
