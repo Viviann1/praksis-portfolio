@@ -17,7 +17,7 @@ const Contact = () => {
 
         <article className='contact__option'>
           <h3 className='h3_heading'>Messenger</h3>
-          <a href="https://www.facebook.com/viviann.heggestad" rel='_external'>Send en melding</a>
+          <a href="https://www.facebook.com/messages/t" rel='_external'>Send en melding på messenger</a>
         </article>
 
         
@@ -27,7 +27,7 @@ const Contact = () => {
           <input type="text" name='name' placeholder='Fullt navn' required />
           <input type='email' name='email' placeholder='Epost' required />
           <textarea name="message" rows="7" placeholder='Din melding' required></textarea>
-          <button type='submit' className='btn btn-primary'>Send message</button>
+          <button type='submit' className='btn btn-primary'>Send</button>
         </form>
       </div>
     </section>

@@ -29,6 +29,10 @@
     text-transform: uppercase;
 }
 
+.mail {
+    letter-spacing: 10px;
+}
+
 .contact__option:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
