@@ -45,8 +45,8 @@ const About = () => {
             </article>
 
           </div>
-          <p>Kreativ sjel som for tiden er i praksis som Frontend Utvikler i Kodeverket Bergen.<br />  
-            Min styrke ligger i designerfaring som gjenspeiles i min kode.
+          <p>Kreativ sjel som er akkurat ferdig med praksis som Frontend Utvikler i Kodeverket Bergen.<br />  
+            Min styrke ligger i designerfaring som gjenspeiles i min kode.<br />
       Har bakgrunn som Art  Director/Grafisk Designer i reklamebyråer. 
       Jobbet som Grafisk Designer i Gazette, et gratis-magasin på Lanzarote. 
       Var med på å starte opp og drev kunst og håndverksbutikk i Irland.  
