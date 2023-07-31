@@ -12,7 +12,7 @@ import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
-    <>
+    <div className='max-w-7xl mx-auto'>
         <Header />
         <Nav />
         <About />
@@ -22,7 +22,7 @@ const App = () => {
         <Testimonials />
         <Contact />
         <Footer />
-    </>
+    </div>
   )
 }
 

@@ -5,9 +5,10 @@
 }
 
 h1 {
-    font-size: 56px;
+    font-size: 79px;
     text-transform: uppercase;
     letter-spacing: 10px;
+    text-align: center;
 }
 
 h5 {
@@ -38,12 +39,13 @@ h5 {
 /* ============== HEADER SOCIALS ================ */
 .header__socials {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     gap: 0.8rem;
     position: absolute;
     left: 0;
     bottom: 3rem;
+    justify-content: center;
 }
 
 .header__socials::after {
@@ -121,4 +123,11 @@ h5 {
     .scroll__down {
         display: none;
     }
+
+    .container header__container {
+        margin-top: 12rem;
+        margin: auto;
+    }
+
+
 }
