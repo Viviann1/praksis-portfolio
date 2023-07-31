@@ -53,12 +53,10 @@ h3,
 h4,
 h5 {
    font-weight: 100;
-   text-align: center;
 }
 
 h1 {
    font-size: 3rem;
-   text-align: center;
 }
 
 section {
@@ -117,7 +115,7 @@ img {
     object-fit: cover;
 }
 
-/* ========MEDIA QUERIES (MEDIUM DEVICES) =========*/
+/* ========MEDIA QUERIES (MEDIUM DEVICES tablets) =========*/
 @media screen and (max-width: 1024px) {
     .container{
         width: var(--container-width-md);
@@ -126,6 +124,10 @@ img {
 
     section {
         margin-top: 6rem;
+    }
+
+    .me3{
+      display: none;
     }
 }  
 
