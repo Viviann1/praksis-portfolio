@@ -20,7 +20,7 @@ const About = () => {
           
           <div className="about__content">
           <div className="about__cards">
-            <article className='about__card'>
+             <article className='about__card'>
               <FiAward className='about__icon' />
               <h5>Erfaring</h5>
               <p>Frontend Utvikler hovedvekt på design.</p>
