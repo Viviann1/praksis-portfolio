@@ -1,5 +1,5 @@
-.container.testimonials__container {
-    width: 80%;
+.testimonials {
+    width: 40%;
 }
 
 .h2_heading{
@@ -35,14 +35,14 @@
 
 /* ========MEDIA QUERIES (MEDIUM DEVICES) =========*/
 @media screen and (max-width: 1024px) {
-    .container.testimonials__container {
+    .testimonials {
         width: 60%;
     }
     }
     
     /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
     @media screen and (max-width: 600px){
-        .container.testimonials__container {
+        .testimonials {
             width: var(--container-width--sm);
         }
     
