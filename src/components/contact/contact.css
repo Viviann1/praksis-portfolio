@@ -12,7 +12,7 @@
 }
 
 .contact__option {
-    background: var(--color-bg-variant);
+    background-color: var(--color-primary-variant);
     padding: 1.2rem;
     border-radius: 1.2rem;
     text-align: center;
@@ -20,8 +20,13 @@
     transition: var(--transition);
 }
 
+.contact__option:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+}
+
 .h3_heading {
-    color: var(--color-primary-variant);
+    color: var(--color-bg-variant);
     text-align: center;
     font-weight: 100;
     letter-spacing: 10px;
@@ -31,16 +36,6 @@
 
 .mail {
     letter-spacing: 10px;
-}
-
-.contact__option:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
-}
-
-.contact__options-icon {
-    font-size: 18px;
-    margin-bottom: 0.5rem;
 }
 
 .contact__option a {
@@ -63,7 +58,7 @@ input, textarea {
     background: transparent;
     border: 2px solid var(--color-light);
     resize: none;
-    color: var(--color-white);
+    color: var(--color-bg-variant);
     margin-top: 1.2rem;
     margin-bottom: -0.5rem;
 }
@@ -81,6 +76,14 @@ input, textarea {
     .container.contact__container {
         width: var(--container-width-sm);
 
+}
+
+.mail {
+    letter-spacing: 3px;
+}
+
+.h3_heading {
+    letter-spacing: 5px;
 }
 
 }
