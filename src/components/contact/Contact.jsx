@@ -1,7 +1,21 @@
 import React from 'react'
 import './contact.css'
+import { useRef } from 'react';
+import emailjs from 'emailjs-com'
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_b4u0z1o', 'template_iu1dou7', form.current, 'SZ3ygXnI_vhmYZH-N')
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+  };
   return (
     <section id='contact'>
       <h2 className='h2_heading'>Her kan du kontakte meg</h2>
@@ -22,7 +36,7 @@ const Contact = () => {
         
         </div> 
         {/* END OF CONTACT OPTIONS */}
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Fullt navn' required />
           <input type='email' name='email' placeholder='Epost' required />
           <textarea name="message" rows="7" placeholder='Din melding' required></textarea>
