@@ -7,8 +7,7 @@ const Contact = () => {
       <h2 className='h2_heading'>Her kan du kontakte meg</h2>
       
       <div className="container contact__container">
-       
-       <div className="contact__options">
+        <div className="contact__options">
         <article className='contact__option'>
           <h3 className='h3_heading'>Email</h3>
           <h4 className='mail'>viviann.kodehode@gmail.com</h4>
@@ -27,7 +26,7 @@ const Contact = () => {
           <input type="text" name='name' placeholder='Fullt navn' required />
           <input type='email' name='email' placeholder='Epost' required />
           <textarea name="message" rows="7" placeholder='Din melding' required></textarea>
-          <button type='submit' className='btn btn-primary'>Send</button>
+          <button type='submit' className='btn btn-primary'>Send en epost</button>
         </form>
       </div>
     </section>
