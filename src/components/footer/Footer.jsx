@@ -14,7 +14,7 @@ const Footer = () => {
         <li><a href="#experience">Mine ferdigheter</a></li>
         <li><a href="#services">Nøkkelkvalifikasjoner</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testmonials">Referanser</a></li>
+        <li><a href="#testimonials">Referanser</a></li>
         <li><a href="#contact">Kontakt meg</a></li>
       </ul>
 
