@@ -76,8 +76,9 @@
 }
 
 .service__list-icon {
-    color: var(--color-primary);
+    color: var(--color-dark);
     margin-top: 2px;
+    font-size: 1.2rem;
 }
 
 .service__list p {
