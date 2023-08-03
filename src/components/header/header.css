@@ -119,11 +119,11 @@ h2 {
         height: 100vh;
     }
 
-    h1 {
-        font-size: 24px;
+    .h1 {
+        font-size: 14px;
         text-transform: uppercase;
-        letter-spacing: 5px;
         text-align: center;
+        letter-spacing: 5px;
     }
 
     h5 {
@@ -145,6 +145,11 @@ h2 {
         position: absolute;
         left: 0;
         bottom: 3rem;
+    }
+
+    .imagerow {
+        display: flex;
+        flex-direction: column;
     }
 
 }

@@ -15,7 +15,8 @@ const Header = () => {
         <h2 className='text-light'>Frontend utvikler, <br/> designer og blomster elsker</h2>
         <CTA />
         <HeaderSocials />
-        <div>
+        
+        <div className='imagerow'>
         <div className='me'>
           <img src={ME} alt='me' />
         </div>
