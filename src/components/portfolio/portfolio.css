@@ -39,7 +39,7 @@
 }
 
 .portfolio__items:hover {
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-dark);
     background: transparent;
 }
 
