@@ -10,19 +10,24 @@ const Header = () => {
   return (
     <header>
       <div className='container.header__container'>
-        <h5 className='text-light'>Hei!</h5>
+        <h2 className='text-light'>Hei!</h2>
         <h1>Viviann Heggestad</h1>
-        <h5 className='text-light'>Frontend utvikler, designer og blomster elsker</h5>
+        <h2 className='text-light'>Frontend utvikler, <br/> designer og blomster elsker</h2>
         <CTA />
         <HeaderSocials />
+        <div>
         <div className='me'>
           <img src={ME} alt='me' />
         </div>
+        
         <div className='me2'>
           <img src={ME2} alt='me2' />
         </div>
+        
         <div className='me3'>
           <img src={ME3} alt='me3' />
+        </div>
+       
         </div>
         <a href='#contact' className='scroll__down'>Scroll Down</a>
         </div>
