@@ -6,7 +6,7 @@ const Testimonials = () => {
     <section id='testimonials'>
       
       <h2 className='h2_heading'>Mine referanser</h2>
-      <h5 className='h5_heading'>oppgis ved forespørsel</h5>
+      <h2>oppgis ved forespørsel</h2>
 
     </section>
   )
