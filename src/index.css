@@ -75,8 +75,7 @@ section > h2, section > h5 {
 }
 
 section > h2 {
-   color: var(--color-bg-variant);
-   margin-bottom: 3rem;
+   color: var(--color-dark);
 }
 
 

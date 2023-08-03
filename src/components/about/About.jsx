@@ -8,7 +8,7 @@ import {VscFolderOpened} from 'react-icons/vsc'
 const About = () => {
   return (
     <section id='about'>
-      <h5 className='h5_heading'>Litt</h5>
+      <h2>Litt</h2>
       <h2 className='h2_heading'>om meg</h2>
       
       <div className='container about__container'>
@@ -45,7 +45,7 @@ const About = () => {
             </article>
 
           </div>
-          <p>Kreativ sjel som er akkurat ferdig med praksis som Frontend Utvikler i Kodeverket Bergen.<br />  
+          <p className='darkp'>Kreativ sjel som er akkurat ferdig med praksis som Frontend Utvikler i Kodeverket Bergen.<br />  
             Min styrke ligger i designerfaring som gjenspeiles i min kode.<br />
       Har bakgrunn som Art  Director/Grafisk Designer i reklamebyråer. 
       Jobbet som Grafisk Designer i Gazette, et gratis-magasin på Lanzarote. 
