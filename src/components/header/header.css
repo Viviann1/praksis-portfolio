@@ -12,7 +12,7 @@ header {
 }
 
 h1 {
-    font-size: 79px;
+    font-size: 98px;
     text-transform: uppercase;
     letter-spacing: 10px;
     text-align: center;
@@ -58,15 +58,21 @@ h2 {
 }
 
 /* ============== ME ================ */
+
+.imagerow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
-    position: absolute;
-    left: 8%;
     margin-top: 4rem;
     overflow: hidden;
     padding: 1rem 1rem 1rem 1rem;
+    margin-right: 2rem;
 
 }
 
@@ -74,11 +80,10 @@ h2 {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
-    position: absolute;
-    left: calc(50% - 11rem);
     margin-top: 4rem;
     overflow: hidden;
     padding: 1rem 1rem 1rem 1rem;
+    margin-right: 2rem;
 
 }
 
@@ -86,9 +91,6 @@ h2 {
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
-    position: absolute;
-    left: 80%;
-    transform: translateX(-50%);
     margin-top: 4rem;
     overflow: hidden;
     padding: 1rem 1rem 1rem 1rem;
