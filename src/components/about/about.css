@@ -77,12 +77,9 @@
 
 }
 
-.about__content darkp {
-    color: var(--color-dark);
-}
 
 p {
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     letter-spacing: 2px;
     font-weight: 100;
 }

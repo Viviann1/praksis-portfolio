@@ -49,7 +49,7 @@ const About = () => {
             Min styrke ligger i designerfaring som gjenspeiles i min kode.<br />
       Har bakgrunn som Art  Director/Grafisk Designer i reklamebyråer. 
       Jobbet som Grafisk Designer i Gazette, et gratis-magasin på Lanzarote. 
-      Var med på å starte opp og drev kunst og håndverksbutikk i Irland.  
+      <br /> Var med på å starte opp og drev kunst og håndverksbutikk i Irland.  
 </p>
 <a href='#contact' className='btn btn-primary'>Ta kontakt</a>
           </div>

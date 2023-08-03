@@ -5,7 +5,7 @@ import {BsCheck} from 'react-icons/bs'
 const Services = () => {
   return (
     <section id='services'>
-    <h5 className='h5_heading'>Mine</h5>
+    <h2>Mine</h2>
     <h2 className='h2_heading'>nøkkelkvalifikasjoner</h2>
 
     <div className='container services__container'>
@@ -86,7 +86,7 @@ const Services = () => {
           </li>
           <li>
             <BsCheck className='service__list-icon' />
-            <p>Kreativ og positivt innstilt.</p>
+            <p>Kreativ, omgjengelig og positivt innstilt.</p>
           </li>
         </ul>
       </article>
