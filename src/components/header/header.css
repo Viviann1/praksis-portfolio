@@ -118,7 +118,8 @@ h2 {
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 270vh;
+        justify-content: center;
     }
 
     .h1 {
@@ -137,16 +138,6 @@ h2 {
     .header__socials,
     .scroll__down {
         display: none;
-    }
-
-    .header__socials {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 2rem;
-        position: absolute;
-        left: 0;
-        bottom: 3rem;
     }
 
     .imagerow {
