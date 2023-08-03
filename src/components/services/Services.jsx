@@ -74,7 +74,7 @@ const Services = () => {
         <ul className='service__list'>
           <li>
             <BsCheck className='service__list-icon' />
-            <p>Etablert og drev kunstbutikk i Carlingford, Irland.</p>
+            <p>Kreativ, omgjengelig og positivt innstilt.</p>
           </li>
           <li>
             <BsCheck className='service__list-icon' />
@@ -86,7 +86,7 @@ const Services = () => {
           </li>
           <li>
             <BsCheck className='service__list-icon' />
-            <p>Kreativ, omgjengelig og positivt innstilt.</p>
+            <p>Entreprenør. Etablert og drev kunstbutikk i Carlingford, Irland.</p>
           </li>
         </ul>
       </article>
