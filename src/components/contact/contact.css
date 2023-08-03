@@ -9,6 +9,8 @@
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
 }
 
 .contact__option {
@@ -26,22 +28,23 @@
 }
 
 .h3_heading {
-    color: var(--color-bg-variant);
+    color: var(--color-dark);
     text-align: center;
     font-weight: 100;
     letter-spacing: 10px;
-    font-size: 32px;
+    font-size: 36px;
     text-transform: uppercase;
 }
 
 .mail {
     letter-spacing: 10px;
+    font-size: 22px;
 }
 
 .contact__option a {
     margin-top: 0.7rem;
     display: inline-block;
-    font-size: 18px;
+    font-size: 22px;
 } 
 
 /* ========= FORM ========= */
@@ -56,11 +59,17 @@ input, textarea {
     padding: 1.5rem;
     border-radius: 0.5rem;
     background: transparent;
+    font-size: 22px;
+    letter-spacing: 5px;
     border: 2px solid var(--color-light);
     resize: none;
     color: var(--color-bg-variant);
     margin-top: 1.2rem;
     margin-bottom: -0.5rem;
+}
+
+btn btn-primary {
+    letter-spacing: 5px;
 }
 
 /* ========MEDIA QUERIES (MEDIUM DEVICES) =========*/
