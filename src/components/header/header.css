@@ -152,6 +152,7 @@ h2 {
     .imagerow {
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
-
 }
