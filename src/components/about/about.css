@@ -91,14 +91,28 @@ p {
        grid-template-columns: 1fr;
        gap: 0; 
     }
+
+
     .about__me {
         width: 50%;
         margin: 2rem auto 4rem;
+        margin-top: 8rem;
     }
 
     .about__content p {
        margin: 1rem 0 1.5rem; 
     }
+
+    .about__cards {
+        margin-bottom: 5rem;
+    }
+
+    .p {
+        font-size: 1.1rem;
+    }
+
+
+
 }
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
