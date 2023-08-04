@@ -130,17 +130,12 @@ img {
     }
 
     section {
-        margin-top: 4rem;
+        margin-top: 6rem;
     }
 
     h1 {
       font-size: 3rem;
    }
-
-   section {
-      margin-top: 3rem;
-   }
-
 }  
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
