@@ -78,6 +78,15 @@ btn btn-primary {
     grid-template-columns: 1fr;
     gap: 2rem;
  }
+
+ form {
+    margin-top: 4.5rem;
+ }
+
+.btn {
+    margin-top: 1rem;
+}
+
 }
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
