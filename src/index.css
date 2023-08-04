@@ -139,12 +139,17 @@ img {
 }  
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 414px) {
     .container{
         width: var(--container-width-sm); 
     }
 
     section > h2 {
         margin-bottom: 2rem;
+    }
+
+    h2 {
+      font-size: 2rem;
+      letter-spacing: 3px;
     }
 } 
