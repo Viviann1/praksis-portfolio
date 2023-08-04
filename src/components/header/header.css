@@ -112,36 +112,29 @@ h2 {
 /* ========MEDIA QUERIES (MEDIUM DEVICES) =========*/
 @media screen and (max-width: 1180px) {
    header {
-       height: 250vh;
+       height: 120vh;
        justify-content: center;
        padding-top: 1rem;
-       overflow: scroll;
+       overflow: hidden;
     }
 
     .me {
-        width: 10rem;
-        height: 20rem;
-        margin-top: 3rem;
-        margin-right: 1rem;
-
+        padding: 0.3rem 0.3rem 0.3rem 0.3rem;
+        margin-right: 0.3rem;
     
     }
-
+    
     .me2 {
-        width: 10rem;
-        height: 20rem;
-        margin-top: 3rem;
-        margin-right: 1rem;
+        padding: 0.3rem 0.3rem 0.3rem 0.3rem;
+        margin-right: 0.3rem;
+    
+    }
 
-    
-    }
-    
     .me3 {
-        width: 10rem;
-        height: 20rem;
-        margin-top: 3rem;
+        padding: 0.3rem 0.3rem 0.3rem 0.3rem;
     
     }
+
 
 }
 
