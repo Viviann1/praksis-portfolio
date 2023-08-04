@@ -41,7 +41,7 @@ const About = () => {
               <h5>Prosjekter</h5>
               <p>Nettbutikkløsning <br />Hjerteting</p>
               <p>Jobbjakt nettside - jobbet i team på løsning</p>
-              <p>Art Director Telenorbygget Kokstad brosjyrer ved åpning</p>
+              <p>Art Director Telenorbygget Kokstad - brosjyrer ved åpning</p>
             </article>
 
           </div>
