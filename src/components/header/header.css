@@ -110,10 +110,39 @@ h2 {
 }
 
 /* ========MEDIA QUERIES (MEDIUM DEVICES) =========*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1180px) {
    header {
-       height: 68vh;
+       height: 250vh;
+       justify-content: center;
+       padding-top: 1rem;
+       overflow: scroll;
     }
+
+    .me {
+        width: 10rem;
+        height: 20rem;
+        margin-top: 3rem;
+        margin-right: 1rem;
+
+    
+    }
+
+    .me2 {
+        width: 10rem;
+        height: 20rem;
+        margin-top: 3rem;
+        margin-right: 1rem;
+
+    
+    }
+    
+    .me3 {
+        width: 10rem;
+        height: 20rem;
+        margin-top: 3rem;
+    
+    }
+
 }
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/

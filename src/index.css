@@ -123,15 +123,23 @@ img {
 }
 
 /* ========MEDIA QUERIES (MEDIUM DEVICES tablets) =========*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1180px) {
     .container{
         width: var(--container-width-md);
         margin: auto; 
     }
 
     section {
-        margin-top: 6rem;
+        margin-top: 4rem;
     }
+
+    h1 {
+      font-size: 1.8rem;
+   }
+
+   section {
+      margin-top: 3rem;
+   }
 
 }  
 
