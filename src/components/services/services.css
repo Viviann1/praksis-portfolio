@@ -23,7 +23,7 @@
 .h2_heading{
     font-size: 36px;
     color: #ffff;
-    letter-spacing: 15px;
+    letter-spacing: 2px;
     font-weight: 100;
     margin-top: 1px;
     text-transform: uppercase;
@@ -80,6 +80,7 @@
     margin-top: 2px;
     font-size: 1.2rem;
 }
+br{ display: none; }
 
 .service__list p {
     font-weight: 100;
@@ -105,5 +106,10 @@
             grid-template-columns: 1fr;
             gap: 1.5rem;
         }
+
+        .h2_heading{
+            letter-spacing: 5px;
+        }
+        br {display: inline;}
    
     }

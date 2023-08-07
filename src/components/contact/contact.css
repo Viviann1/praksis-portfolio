@@ -45,6 +45,7 @@
     margin-top: 0.7rem;
     display: inline-block;
     font-size: 22px;
+    color: var(--color-dark);
 } 
 
 /* ========= FORM ========= */
