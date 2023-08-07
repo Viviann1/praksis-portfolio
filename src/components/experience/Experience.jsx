@@ -52,12 +52,12 @@ const Experience = () => {
           <div className='experience__content'>
             <article className=''>
               <h4>* QuarkXp</h4>
-              <p className=''>Særs erfaren</p>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
               <h4>* Photoshop</h4>
-              <p className=''>Særs erfaren</p>
+              <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
