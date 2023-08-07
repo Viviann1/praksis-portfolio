@@ -58,6 +58,16 @@ const Portfolio = () => {
           </div>
         </article>
 
+        <article className='portfolio__item'>
+          <div>
+          <h3 className='h3_heading'>Hawii design</h3>
+          <p className='portfolio-p'>Min designskisse</p>
+          </div>
+          <div className="portfolio__item-cta"> 
+          <a href="https://www.figma.com/file/BQ7E4x45no5E69Kb5H9OUe/New-design-suggestion?type=design&node-id=0%3A1&mode=design&t=DXz2aAsiledW5ttO-1" className='btn'>Figma</a>
+          </div>
+        </article>
+
       </div>
     </section>
   )
