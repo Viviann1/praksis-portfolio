@@ -13,6 +13,10 @@
     margin-top: 3rem;
 }
 
+.mobile-br {
+    display: none;
+}
+
 .contact__option {
     background-color: var(--color-primary-variant);
     padding: 1.2rem;
@@ -99,6 +103,10 @@ btn btn-primary {
 
 .mail {
     letter-spacing: 3px;
+}
+
+.mobile-br{
+    display: block;
 }
 
 .h3_heading {

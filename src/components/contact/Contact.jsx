@@ -20,7 +20,7 @@ const Contact = () => {
         <div className="contact__options">
         <article className='contact__option'>
           <h3 className='h3_heading'>Email</h3>
-          <h4 className='mail'>viviann.kodehode@gmail.com</h4>
+          <h4 className='mail'>viviann.kodehode <br className='mobile-br' /> @gmail.com</h4>
           <a href="mailto:viviann.kodehode@gmail.com" rel='_external'>Send en epost</a>
         </article>
 
