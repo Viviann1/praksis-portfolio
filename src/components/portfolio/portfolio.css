@@ -51,10 +51,17 @@
 
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0 0.3rem;
     font-weight: 100;
     color: var(--color-white);
     
+}
+
+.portfolio-p {
+color: var(--color-light);
+margin-bottom: 2rem;
+display: flex;
+justify-content: center;
 }
 
 .portfolio__item-cta {

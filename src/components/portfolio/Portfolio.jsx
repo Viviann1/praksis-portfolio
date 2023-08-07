@@ -29,6 +29,16 @@ const Portfolio = () => {
           </div>
         </article>
 
+        <article className='portfolio__item'>
+          <div>
+          <h3 className='h3_heading'>Jobbjakt</h3>
+          <p className='portfolio-p'>Utviklet nettside team Kodeverket</p>
+          </div>
+          <div className="portfolio__item-cta"> 
+          <a href="https://www.jobbjakt.no/" className='btn'>Nettside</a>
+          </div>
+        </article>
+
       </div>
     </section>
   )
