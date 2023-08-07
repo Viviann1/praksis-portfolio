@@ -51,7 +51,7 @@ const Experience = () => {
         <h3 className='h3_heading'>Design erfaring</h3>
           <div className='experience__content'>
             <article className=''>
-              <h4>* QuarkExpress</h4>
+              <h4>* QuarkXp</h4>
               <p className=''>Særs erfaren</p>
              </article>
 

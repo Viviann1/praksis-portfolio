@@ -14,6 +14,10 @@
 
 }
 
+.mobile-br {
+    display: none;
+}
+
 .service:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
@@ -23,7 +27,6 @@
 .h2_heading{
     font-size: 36px;
     color: #ffff;
-    letter-spacing: 2px;
     font-weight: 100;
     margin-top: 1px;
     text-transform: uppercase;
@@ -76,11 +79,10 @@
 }
 
 .service__list-icon {
-    color: var(--color-dark);
+    color: var(--color-white);
     margin-top: 2px;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
-br{ display: none; }
 
 .service__list p {
     font-weight: 100;
@@ -110,6 +112,9 @@ br{ display: none; }
         .h2_heading{
             letter-spacing: 5px;
         }
-        br {display: inline;}
+
+        .mobile-br{
+            display: block;
+        }
    
     }
