@@ -16,7 +16,7 @@ const Portfolio = () => {
         </article>
         
         <article className='portfolio__item'>
-          <h3 className='h3_heading'>Nedteller til jul</h3>
+          <h3 className='h3_heading'>Nedteller jul</h3>
           <div className="portfolio__item-cta"> 
           <a href="https://github.com/Viviann1/juleoppgave.git" className='btn'>Github</a>
           </div>
