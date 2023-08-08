@@ -66,9 +66,9 @@ input, textarea {
     background: transparent;
     font-size: 22px;
     letter-spacing: 5px;
-    border: 2px solid var(--color-light);
+    border: 2px solid var(--color-dark);
     resize: none;
-    color: var(--color-bg-variant);
+    color: var(--color-dark);
     margin-top: 1.2rem;
     margin-bottom: -0.5rem;
 }
