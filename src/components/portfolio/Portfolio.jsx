@@ -70,31 +70,31 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div>
-          <h3 className='h3_heading'>Hawii design</h3>
-          <p className='portfolio-p'>Min designskisse</p>
+          <h3 className='h3_heading'>Telenor Kokstad</h3>
+          <p className='portfolio-p'>AD brosjyrer ved åpning</p>
           </div>
           <div className="portfolio__item-cta"> 
-          <a href="https://www.figma.com/file/BQ7E4x45no5E69Kb5H9OUe/New-design-suggestion?type=design&node-id=0%3A1&mode=design&t=DXz2aAsiledW5ttO-1" className='btn'>Figma</a>
+          <a href="https://dribbble.com/shots/22217367-Telenor-Kokstad-brochures-opening?added_first_shot=true&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Telenor%20Kokstad%20brochures%20opening&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Telenor%20Kokstad%20brochures%20opening&utm_medium=Social_Share" className='btn'>Dribble</a>
           </div>
         </article>
 
         <article className='portfolio__item'>
           <div>
-          <h3 className='h3_heading'>Hawii design</h3>
-          <p className='portfolio-p'>Min designskisse</p>
+          <h3 className='h3_heading'>Procean</h3>
+          <p className='portfolio-p'>Diverse brosjyrer</p>
           </div>
           <div className="portfolio__item-cta"> 
-          <a href="https://www.figma.com/file/BQ7E4x45no5E69Kb5H9OUe/New-design-suggestion?type=design&node-id=0%3A1&mode=design&t=DXz2aAsiledW5ttO-1" className='btn'>Figma</a>
+          <a href="https://dribbble.com/shots/22217722-Procean?new_shot_upload=true&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Procean&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Procean&utm_medium=Social_Share" className='btn'>Dribble</a>
           </div>
         </article>
 
         <article className='portfolio__item'>
           <div>
-          <h3 className='h3_heading'>Hawii design</h3>
-          <p className='portfolio-p'>Min designskisse</p>
+          <h3 className='h3_heading'>Diverse</h3>
+          <p className='portfolio-p'>Utvalg tidligere kunder</p>
           </div>
           <div className="portfolio__item-cta"> 
-          <a href="https://www.figma.com/file/BQ7E4x45no5E69Kb5H9OUe/New-design-suggestion?type=design&node-id=0%3A1&mode=design&t=DXz2aAsiledW5ttO-1" className='btn'>Figma</a>
+          <a href="https://dribbble.com/shots/22217463-Different-clients?utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Different%20clients&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Different%20clients&utm_medium=Social_Share" className='btn'>Dribble</a>
           </div>
         </article>
 
