@@ -3,7 +3,7 @@ import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/paint.jpg'
 import ME2 from '../../assets/me.jpg'
-import ME3 from '../../assets/me3.jpg'
+import ME3 from '../../assets/flowers.jpg'
 import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
