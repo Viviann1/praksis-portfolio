@@ -10,8 +10,8 @@ const Portfolio = () => {
       <div className='container portfolio__container'>
         <article className='portfolio__item'>
           <div>
-          <h3 className='h3_heading'>Movie streamer</h3>
-          <p className='portfolio-p'>Skoleoppgave Kodehode</p>
+          <h3 className='h3_heading'>WIXFLIX</h3>
+          <p className='portfolio-p'>Oppgave Kodehode</p>
           </div>
           <div className='portfolio__item-cta'> 
           <a href="https://www.figma.com/file/S8o5n1TUES4EfF4fmdwugc/Modul-C-sep22---Viviann-Moviestreamer?node-id=0%3A1&t=VatVqMMaGNZSWKml-1" className='btn btn-primary' rel='_external'>Figma</a>
@@ -21,7 +21,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div>
           <h3 className='h3_heading'>Nedteller jul</h3>
-          <p className='portfolio-p'>Skoleoppgave Kodehode</p>
+          <p className='portfolio-p'>Oppgave Kodehode</p>
           </div>
           <div className="portfolio__item-cta"> 
           <a href="https://github.com/Viviann1/juleoppgave.git" className='btn'>Github</a>
@@ -31,7 +31,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div>
           <h3 className='h3_heading'>Hjerteting</h3>
-          <p className='portfolio-p'>Butikkløsning Kodeverket</p>
+          <p className='portfolio-p'>Butikk Kodeverket</p>
           </div>
           <div className="portfolio__item-cta"> 
           <a href="https://www.hjerteting.no/" className='btn'>Nettbutikk</a>
@@ -41,7 +41,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div>
           <h3 className='h3_heading'>Jobbjakt</h3>
-          <p className='portfolio-p'>Utviklet side Kodeverket</p>
+          <p className='portfolio-p'>Utviklet Kodeverket</p>
           </div>
           <div className="portfolio__item-cta"> 
           <a href="https://www.jobbjakt.no/" className='btn'>Nettside</a>
@@ -50,7 +50,7 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div>
-          <h3 className='h3_heading'>Jobbjakt design</h3>
+          <h3 className='h3_heading'>Jobbjakt</h3>
           <p className='portfolio-p'>Min designskisse</p>
           </div>
           <div className="portfolio__item-cta"> 
@@ -70,8 +70,8 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div>
-          <h3 className='h3_heading'>Telenor Kokstad</h3>
-          <p className='portfolio-p'>AD brosjyrer ved åpning</p>
+          <h3 className='h3_heading'>Telenor</h3>
+          <p className='portfolio-p'>AD brosjyrer</p>
           </div>
           <div className="portfolio__item-cta"> 
           <a href="https://dribbble.com/shots/22217367-Telenor-Kokstad-brochures-opening?added_first_shot=true&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Telenor%20Kokstad%20brochures%20opening&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Telenor%20Kokstad%20brochures%20opening&utm_medium=Social_Share" className='btn'>Dribble</a>
@@ -91,7 +91,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div>
           <h3 className='h3_heading'>Diverse</h3>
-          <p className='portfolio-p'>Utvalg tidligere kunder</p>
+          <p className='portfolio-p'>Tidligere kunder</p>
           </div>
           <div className="portfolio__item-cta"> 
           <a href="https://dribbble.com/shots/22217463-Different-clients?utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Different%20clients&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Kodehode&utm_content=Different%20clients&utm_medium=Social_Share" className='btn'>Dribble</a>
