@@ -31,7 +31,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div>
           <h3 className='h3_heading'>Hjerteting</h3>
-          <p className='portfolio-p'>Butikkløsning team Kodeverket</p>
+          <p className='portfolio-p'>Butikkløsning Kodeverket</p>
           </div>
           <div className="portfolio__item-cta"> 
           <a href="https://www.hjerteting.no/" className='btn'>Nettbutikk</a>
@@ -41,7 +41,7 @@ const Portfolio = () => {
         <article className='portfolio__item'>
           <div>
           <h3 className='h3_heading'>Jobbjakt</h3>
-          <p className='portfolio-p'>Utviklet nettside team Kodeverket</p>
+          <p className='portfolio-p'>Utviklet side Kodeverket</p>
           </div>
           <div className="portfolio__item-cta"> 
           <a href="https://www.jobbjakt.no/" className='btn'>Nettside</a>
