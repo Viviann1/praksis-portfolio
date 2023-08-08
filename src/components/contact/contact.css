@@ -92,6 +92,10 @@ btn btn-primary {
     margin-top: 1rem;
 }
 
+.h3_heading {
+    text-align: center;
+}
+
 }
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
