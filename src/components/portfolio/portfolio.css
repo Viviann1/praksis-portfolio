@@ -84,7 +84,7 @@ justify-content: center;
 }
 
     /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
-    @media screen and (max-width: 414px) {
+    @media screen and (max-width: 425px) {
         .portfolio__container{
             grid-template-columns: 1fr;
             gap: 1rem;

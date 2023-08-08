@@ -63,7 +63,7 @@ footer {
 
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 425px) {
 .permalinks {
     flex-direction: column;
     gap:1.5rem

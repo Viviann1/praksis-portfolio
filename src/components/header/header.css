@@ -139,7 +139,7 @@ h2 {
 }
 
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 425px) {
     header {
         height: 240vh;
         justify-content: center;
