@@ -154,7 +154,7 @@ h2 {
 /* ========MEDIA QUERIES (SMALL DEVICES) =========*/
 @media screen and (max-width: 425px) {
     header {
-        height: 280vh;
+        height: 260vh;
         justify-content: center;
     }
 
