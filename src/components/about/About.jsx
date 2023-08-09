@@ -8,9 +8,12 @@ import {VscFolderOpened} from 'react-icons/vsc'
 const About = () => {
   return (
     <section id='about'>
+
+      <div className='headings'>
       <h2>Litt</h2>
       <h2 className='h2_heading'>om meg</h2>
-      
+      </div>
+
       <div className='container about__container'>
           <div className="about__me">
             <div className="about__me-image">
@@ -38,9 +41,10 @@ const About = () => {
 
             <article className='about__card'>
               <VscFolderOpened className='about__icon' />
-              <h5>Prosjekter</h5>
+              <h5>Prosjekt</h5>
               <p>Nettbutikkløsning <br />Hjerteting</p>
               <p>Jobbjakt nettside - jobbet i team på løsning</p>
+              <p>Se Github for flere kode prosjekt</p>
               <p>Art Director Telenorbygget Kokstad - brosjyrer ved åpning</p>
             </article>
 
