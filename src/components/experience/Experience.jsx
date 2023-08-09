@@ -13,12 +13,12 @@ const Experience = () => {
           <h3 className='h3_heading'>Frontend erfaring</h3>
           <div className='experience__content'>
             <article className=''>
-              <h4 className='h4_heading'>* HTML</h4>
+              <h4 className='h4_heading'>* HTML/CSS</h4>
               <p className=''>Erfaren</p>
              </article>
 
              <article className=''>
-              <h4>* CSS</h4>
+              <h4>* NextJS</h4>
               <p className=''>Erfaren</p>
              </article>
 
@@ -38,7 +38,7 @@ const Experience = () => {
              </article>
 
              <article className=''>
-              <h4>* NextJS</h4>
+              <h4>* Tailwind</h4>
               <p className=''>Erfaren</p>
              </article>
 
