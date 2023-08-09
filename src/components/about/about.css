@@ -3,6 +3,7 @@
     grid-template-columns: 35% 50%;
     gap: 10%;
     margin-top: 1rem;
+
 }
 
 .headings {
@@ -28,6 +29,7 @@
     border-radius: 2rem;
     overflow: hidden;
     margin-top: 3rem;
+    margin-bottom: 1rem;
     transform: rotate(10deg);
     transition: var(--transition);
 }
@@ -40,6 +42,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
+    margin-top: 1rem;
 }
 
 
@@ -100,7 +103,7 @@ p {
     .about__me {
         width: 50%;
         margin: 2rem auto 4rem;
-        margin-top: 8rem;
+        margin-top: 3rem;
     }
 
     .about__content p {
@@ -109,6 +112,7 @@ p {
 
     .about__cards {
         margin-bottom: 5rem;
+        margin-top: 3rem;
     }
 
     .p {
